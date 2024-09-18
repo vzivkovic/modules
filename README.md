@@ -16,3 +16,5 @@ git push -u origin main
 
 - git submodule
 - git submodule add git@github.com:vzivkovic/submodules.git
+- git submodule --init
+- git submodule update --remote
